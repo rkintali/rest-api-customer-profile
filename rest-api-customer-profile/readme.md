@@ -7,7 +7,7 @@ Steps to run this project:
 1) Close the applications running on localhost:8080
 2) Download or fork the codebase https://github.com/rkintali/rest-api-customer-profile/tree/master/rest-api-customer-profile
 3) Go to the project base directory (<application_home>/rest-api-customer-profile)
-4) Run the command 'mvn clean spring-boot:run'
+4) Open command prompt and run the command 'mvn clean spring-boot:run'
 5) The application now runs successfully on localhost:8080
 6) Logs are placed at <application_home>/rest-api-customer-profile/logs
 7) The Customer REST API documentation is present in SwaggerHub at https://app.swaggerhub.com/apis/RKS89/Customer/1.0.0
